@@ -1,0 +1,12 @@
+{
+  "name": "magic-fn-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MarcoPolo/__demo.git",
+  "author": "Marco Munizaga <marco@marcopolo.io>",
+  "license": "MIT",
+  "dependencies": {
+    "moji-translate": "^1.0.8",
+    "stripe": "^8.47.1"
+  }
+}
